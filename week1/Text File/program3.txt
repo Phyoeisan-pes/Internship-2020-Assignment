@@ -1,0 +1,2 @@
+Program3:java classတစ္ခုတည္ေဆာက္ပီးသူ႔ထဲမွာ Calculator ဆိုတဲ့ methodတစ္ခု႐ွိၿပီး main method ထဲမွာက integer variables ႏွစ္ခု ကို value assignထည့္ပီး ေၾကညာတယ္။ object nameတစ္ခုေၾကညာပီး Calculator()ကိုျပန္ေခၚတယ္။ေၾကညာထားတဲ့ object nameထဲမွာ +,-,*,
+/ဆိုတဲ့ operationsေတြျပဳလုပ္ပီး သက္ဆိုင္ရာ variable name နဲ႔ assignလုပ္ပီး output ထုတ္ျပသည္။

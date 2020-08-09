@@ -1,0 +1,1 @@
+Program4:java classတစ္ခု တည္ေဆာက္ပီး main method ထဲမွာ object တစ္ခု တည္ေဆာက္ပီး အဲ့ဒီobject nameနဲ႔ super method,hyper method ႏွင့္ ultra method ဆို ပီး method သံုးခု ျပန္ေခၚထားသည္။  methodတစ္ခုခ်င္းစီကို ျပန္ေခၚလိုက္တဲ့ခါမွာ output တစ္ခုစီထုက္ျပမယ္။
