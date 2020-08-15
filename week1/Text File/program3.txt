@@ -1,2 +1,2 @@
-Program3:java classတစ္ခုတည္ေဆာက္ပီးသူ႔ထဲမွာ Calculator ဆိုတဲ့ methodတစ္ခု႐ွိၿပီး main method ထဲမွာက integer variables ႏွစ္ခု ကို value assignထည့္ပီး ေၾကညာတယ္။ object nameတစ္ခုေၾကညာပီး Calculator()ကိုျပန္ေခၚတယ္။ေၾကညာထားတဲ့ object nameထဲမွာ +,-,*,
-/ဆိုတဲ့ operationsေတြျပဳလုပ္ပီး သက္ဆိုင္ရာ variable name နဲ႔ assignလုပ္ပီး output ထုတ္ျပသည္။
+Program3:java classတစ်ခုတည်ဆောက်ပီးသူ့ထဲမှာ Calculator ဆိုတဲ့ methodတစ်ခုရှိပြီး main method ထဲမှာက integer variables နှစ်ခု ကို value assignထည့်ပီး ကြေညာတယ်။ object nameတစ်ခုကြေညာပီး Calculator()ကိုပြန်ခေါ်တယ်။ကြေညာထားတဲ့ object nameထဲမှာ +,-,*,
+/ဆိုတဲ့ operationsတွေပြုလုပ်ပီး သက်ဆိုင်ရာ variable name နဲ့ assignလုပ်ပီး output ထုတ်ပြသည်။

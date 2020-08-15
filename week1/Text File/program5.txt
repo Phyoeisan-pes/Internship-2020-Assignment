@@ -1,2 +1,2 @@
-Program5:java class တစ္ခု တည္ေဆာက္ပီး main method ထဲမွာ string name တစ္ခု ေၾကညာမယ္ ။အဲ့string name ထဲကို array ခန္းနဲ႔ 0 to 9 ဆို ပီး student nameေတြ assign ထည့္မယ္။ၿပီးရင္ for loop ထဲထည့္ပီး အလုပ္လုပ္မယ္။ i = 0, if statement ကိုသြား zeroခန္းက student nameက ကိုယ္တိုက္စစ္တဲ့ nameနဲ႔ညီတယ္ဆိုရင
-္output ထုတ္ျပ မယ္။ ၿပီးရင္ loopျပန္တက္ iကို တစ္တိုး loopနဲ႔ကိုက္ိညီတယ္ဆိုရင္ if statement မွာ အလုပ္ျပန္လုပ္မယ္။for loopနဲ႔ မကိုက္ညီေတာ့ရင္ ေတာ့ loopကေန အပီးထြက္သြားမယ္။
+Program5:java class တစ်ခု တည်ဆောက်ပီး main method ထဲမှာ string name တစ်ခု ကြေညာမယ် ။အဲ့string name ထဲကို array ခန်းနဲ့ 0 to 9 ဆို ပီး student nameတွေ assign ထည့်မယ်။ပြီးရင် for loop ထဲထည့်ပီး အလုပ်လုပ်မယ်။ i = 0, if statement ကိုသွား zeroခန်းက student nameက ကိုယ်တိုက်စစ်တဲ့ nameနဲ့ညီတယ်ဆိုရင
+်output ထုတ်ပြ မယ်။ ပြီးရင် loopပြန်တက် iကို တစ်တိုး loopနဲ့ကိုကိညီတယ်ဆိုရင် if statement မှာ အလုပ်ပြန်လုပ်မယ်။for loopနဲ့ မကိုက်ညီတော့ရင် တော့ loopကနေ အပီးထွက်သွားမယ်။

@@ -1,5 +1,5 @@
-Program1:java class တစ္ခုတည္
-ေဆာက္ၿပီးရင္ main methodထဲမွာ
-Integer variable တစ္လံုး ေၾကညာတယ္။
-ပီးရင္ for loopနဲ႔ပတ္ပီး i က zeroနဲ႔ ညီ
-Output ထုတ္ျပတယ္။ပီးရင္ loopingျပန္ပတ္ iကို တစ္တိုးတယ္ ။i က 1000ထက္ငယ္ရင္ outputကို ျပန္ထုတ္ျပတယ္။ေနာက္ဆံုး သူ႔ loopနဲ႔ မကိုက္ညီေတာ့ရင္ loop ကထြက္သြားမယ္။
+Program1:java class တစ်ခုတည်
+ဆောက်ပြီးရင် main methodထဲမှာ
+Integer variable တစ်လုံး ကြေညာတယ်။
+ပီးရင် for loopနဲ့ပတ်ပီး i က zeroနဲ့ ညီ
+Output ထုတ်ပြတယ်။ပီးရင် loopingပြန်ပတ် iကို တစ်တိုးတယ် ။i က 1000ထက်ငယ်ရင် outputကို ပြန်ထုတ်ပြတယ်။နောက်ဆုံး သူ့ loopနဲ့ မကိုက်ညီတော့ရင် loop ကထွက်သွားမယ်။
